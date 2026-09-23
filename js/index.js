@@ -1,4 +1,4 @@
-alert("SELAMAT DATANG DI KALKULATOR UAS BAGAS")
+alert("SELAMAT DATANG DI KALKULATOR BAGAS")
 alert ("note : (operasi % [50%100 == 50 persen dari 100])");
 document.addEventListener('DOMContentLoaded', () => {
 
